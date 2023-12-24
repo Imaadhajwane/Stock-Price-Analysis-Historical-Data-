@@ -25,15 +25,17 @@ Number of shares traded on a given day, providing insights into market activity.
 
 ##  Project Scope
 
-### 1. Exploratory Data Analysis (EDA):
+1. Exploratory Data Analysis (EDA):
    
-#### Analyzing the distribution and statistical properties of the stock data.
-#### Identifying trends, seasonality, and outliers.
+Analyzing the distribution and statistical properties of the stock data.
 
-### Time Series Analysis:
+Identifying trends, seasonality, and outliers.
 
-#### Investigating time-based patterns in stock prices.
-#### Utilizing statistical models to forecast future stock prices.
+Time Series Analysis:
+
+Investigating time-based patterns in stock prices.
+
+Utilizing statistical models to forecast future stock prices.
 
 3. Performance Metrics Calculation:
 
@@ -42,8 +44,51 @@ Calculating key financial metrics, such as daily returns, volatility, and cumula
 4. Correlation Analysis:
 
 Assessing the correlation between different stocks.
+
 Identifying potential diversification opportunities.
-Portfolio Optimization:
+
+5. Portfolio Optimization:
 
 Constructing an optimal stock portfolio based on risk and return objectives.
+
 Utilizing modern portfolio theory for asset allocation.
+
+### Key Achievements
+
+1. Insights into Stock Behavior:
+
+Uncovering patterns and trends in stock prices, enabling informed decision-making.
+
+2. Risk and Return Analysis:
+
+Evaluating risk and return metrics to guide investment strategies.
+
+3. Time Series Forecasting:
+
+Utilizing time series models for predicting future stock prices.
+
+4. Diversification Opportunities:
+
+Identifying stocks with low correlation, enhancing portfolio diversification.
+
+5. Portfolio Optimization:
+
+Constructing an optimized portfolio for achieving specific financial goals.
+
+### Future Work
+
+The project provides a solid foundation for ongoing research and analysis. Future work may include:
+
+1. Incorporating more recent data to capture market changes.
+   
+2. Enhancing predictive models for improved accuracy.
+   
+3. Exploring machine learning techniques for stock price forecasting.
+   
+4. Expanding the scope to include external factors affecting stock prices.
+
+### Technology Used
+
+The Stock Prizing Analysis project utilized the following technologies and tools:
+
+Python: For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn, Tensorflow)
