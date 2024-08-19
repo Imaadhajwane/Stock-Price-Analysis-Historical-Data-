@@ -4,7 +4,7 @@
 
 Stock Analysis with Historical Data
 
-The Stock Analysis project utilizes historical daily prices for tickers trading. The dataset is, providing a comprehensive view of stock performance up to April 1, 2020. This analysis aims to extract valuable insights from the financial data, offering a deeper understanding of stock behavior, trends, and potential investment opportunities.
+The Stock Analysis project utilizes historical daily prices for tickers trading. The dataset is, providing a comprehensive view of stock performance up to April 1, 2020. This analysis aims to extract valuable insights from the financial data, offering a deeper understanding of stock behavior, trends, and potential investment opportunities. 
 
 ## Data Columns
 
