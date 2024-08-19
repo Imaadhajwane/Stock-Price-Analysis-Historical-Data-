@@ -27,7 +27,7 @@ Number of shares traded on a given day, providing insights into market activity.
 
 1. Exploratory Data Analysis (EDA):
    
-Analyzing the distribution and statistical properties of the stock data.
+Analyzing the distribution and statistical properties of the stock data. 
 
 Identifying trends, seasonality, and outliers.
 
