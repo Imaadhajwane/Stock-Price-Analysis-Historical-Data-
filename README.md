@@ -1,94 +1,75 @@
-# Stock-Price-Analysis-Historical-Data
+<h1>Stock Price Analysis with Historical Data</h1>
 
-## Project Overview:
+<h2>Project Overview</h2>
+<p>
+    The Stock Analysis project utilizes historical daily prices for tickers trading. The dataset provides a comprehensive view of stock performance up to April 1, 2020. This analysis aims to extract valuable insights from the financial data, offering a deeper understanding of stock behavior, trends, and potential investment opportunities.
+</p>
 
-Stock Analysis with Historical Data
+<h2>Data Columns</h2>
+<ol>
+    <li><strong>Date:</strong> Specifies the trading date.</li>
+    <li><strong>Open:</strong> Opening price, representing the stock's price at the beginning of the trading day.</li>
+    <li><strong>High:</strong> Maximum price observed during the trading day.</li>
+    <li><strong>Low:</strong> Minimum price observed during the trading day.</li>
+    <li><strong>Close:</strong> Close price, adjusted for stock splits.</li>
+    <li><strong>Adj Close:</strong> Adjusted close price, accounting for both dividends and stock splits.</li>
+    <li><strong>Volume:</strong> Number of shares traded on a given day, providing insights into market activity.</li>
+</ol>
 
-The Stock Analysis project utilizes historical daily prices for tickers trading. The dataset is, providing a comprehensive view of stock performance up to April 1, 2020. This analysis aims to extract valuable insights from the financial data, offering a deeper understanding of stock behavior, trends, and potential investment opportunities.  
+<h2>Project Scope</h2>
+<ol>
+    <li><strong>Exploratory Data Analysis (EDA):</strong>
+        <ul>
+            <li>Analyzing the distribution and statistical properties of the stock data.</li>
+            <li>Identifying trends, seasonality, and outliers.</li>
+        </ul>
+    </li>
+    <li><strong>Time Series Analysis:</strong>
+        <ul>
+            <li>Investigating time-based patterns in stock prices.</li>
+            <li>Utilizing statistical models to forecast future stock prices.</li>
+        </ul>
+    </li>
+    <li><strong>Performance Metrics Calculation:</strong>
+        <ul>
+            <li>Calculating key financial metrics, such as daily returns, volatility, and cumulative returns.</li>
+        </ul>
+    </li>
+    <li><strong>Correlation Analysis:</strong>
+        <ul>
+            <li>Assessing the correlation between different stocks.</li>
+            <li>Identifying potential diversification opportunities.</li>
+        </ul>
+    </li>
+    <li><strong>Portfolio Optimization:</strong>
+        <ul>
+            <li>Constructing an optimal stock portfolio based on risk and return objectives.</li>
+            <li>Utilizing modern portfolio theory for asset allocation.</li>
+        </ul>
+    </li>
+</ol>
 
-## Data Columns
+<h2>Key Achievements</h2>
+<ol>
+    <li><strong>Insights into Stock Behavior:</strong> Uncovering patterns and trends in stock prices, enabling informed decision-making.</li>
+    <li><strong>Risk and Return Analysis:</strong> Evaluating risk and return metrics to guide investment strategies.</li>
+    <li><strong>Time Series Forecasting:</strong> Utilizing time series models for predicting future stock prices.</li>
+    <li><strong>Diversification Opportunities:</strong> Identifying stocks with low correlation, enhancing portfolio diversification.</li>
+    <li><strong>Portfolio Optimization:</strong> Constructing an optimized portfolio for achieving specific financial goals.</li>
+</ol>
 
-1. Date
-Specifies the trading date.
-2. Open
-Opening price, representing the stock's price at the beginning of the trading day.
-3. High
-Maximum price observed during the trading day.
-4. Low
-Minimum price observed during the trading day.
-5. Close
-Close price, adjusted for stock splits.
-6. Adj Close
-Adjusted close price, accounting for both dividends and stock splits.
-7. Volume
-Number of shares traded on a given day, providing insights into market activity.
+<h2>Future Work</h2>
+<ul>
+    <li>Incorporating more recent data to capture market changes.</li>
+    <li>Enhancing predictive models for improved accuracy.</li>
+    <li>Exploring machine learning techniques for stock price forecasting.</li>
+    <li>Expanding the scope to include external factors affecting stock prices.</li>
+</ul>
 
-##  Project Scope
-
-1. Exploratory Data Analysis (EDA):
-   
-Analyzing the distribution and statistical properties of the stock data. 
-
-Identifying trends, seasonality, and outliers.
-
-Time Series Analysis:
-
-Investigating time-based patterns in stock prices.
-
-Utilizing statistical models to forecast future stock prices.
-
-3. Performance Metrics Calculation:
-
-Calculating key financial metrics, such as daily returns, volatility, and cumulative returns.
-
-4. Correlation Analysis:
-
-Assessing the correlation between different stocks.
-
-Identifying potential diversification opportunities.
-
-5. Portfolio Optimization:
-
-Constructing an optimal stock portfolio based on risk and return objectives.
-
-Utilizing modern portfolio theory for asset allocation.
-
-### Key Achievements
-
-1. Insights into Stock Behavior:
-
-Uncovering patterns and trends in stock prices, enabling informed decision-making.
-
-2. Risk and Return Analysis:
-
-Evaluating risk and return metrics to guide investment strategies.
-
-3. Time Series Forecasting:
-
-Utilizing time series models for predicting future stock prices.
-
-4. Diversification Opportunities:
-
-Identifying stocks with low correlation, enhancing portfolio diversification.
-
-5. Portfolio Optimization:
-
-Constructing an optimized portfolio for achieving specific financial goals.
-
-### Future Work
-
-The project provides a solid foundation for ongoing research and analysis. Future work may include:
-
-1. Incorporating more recent data to capture market changes.
-   
-2. Enhancing predictive models for improved accuracy.
-   
-3. Exploring machine learning techniques for stock price forecasting.
-   
-4. Expanding the scope to include external factors affecting stock prices.
-
-### Technology Used
-
-The Stock Prizing Analysis project utilized the following technologies and tools:
-
-Python: For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn, Tensorflow)
+<h2>Technology Used</h2>
+<p>
+    The Stock Price Analysis project utilized the following technologies and tools:
+</p>
+<ul>
+    <li><strong>Python:</strong> For data preprocessing, analysis, and visualization (Pandas, Matplotlib, Seaborn, TensorFlow).</li>
+</ul>
